@@ -1,4 +1,5 @@
 let convertValid = false
+scene.setBackgroundColor(6)
 const usdValue = {
     toUSD: 1.00, // 1 USD = USD
     toEUR: 0.86, // 1 USD = EUR
